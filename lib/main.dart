@@ -9,7 +9,7 @@ import 'screens/home_screen.dart';
 import 'screens/doctor_home_screen.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'theme/app_theme.dart';
-import 'utils/seed.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
